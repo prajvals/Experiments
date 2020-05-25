@@ -9,4 +9,5 @@ void main()
     cout << "this is a beautiful world";
     cout << " I will make it bro";
     cout << "hey";
+    cout<<"hi";
 }
